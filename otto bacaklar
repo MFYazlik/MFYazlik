@@ -1,0 +1,5 @@
+#define LeftLeg 2 // left leg pin
+#define RightLeg 3 // right leg pin
+#define LeftFoot 4 // left foot pin
+#define RightFoot 5 // right foot pin
+#define Buzzer 13 //buzzer pin
